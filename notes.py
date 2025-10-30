@@ -12,6 +12,7 @@ class Dog:
         name - the name of the dog
         age - the age of the dog
     """""
+    
     def __init__(self, breed, fur_color, name, age):
         """"Initialize a new dog with breed, fur_color, name, and age"""
         self.breed = breed
